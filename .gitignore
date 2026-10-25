@@ -1,0 +1,11 @@
+*
+!.gitignore
+!README.md
+!议事厅.md
+!决策日志.md
+!正典.md
+!望批示.md
+*.key
+*.pem
+*.env
+.env.*

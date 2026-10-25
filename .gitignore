@@ -1,0 +1,9 @@
+*
+!.gitignore
+!README.md
+!议事厅.md
+!决策日志.md
+*.key
+*.pem
+*.env
+.env.*

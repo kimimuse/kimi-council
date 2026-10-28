@@ -15,3 +15,6 @@
 *.pem
 *.env
 .env.*
+*.local.json
+bilibili_auth.local.json
+通知配置.json
